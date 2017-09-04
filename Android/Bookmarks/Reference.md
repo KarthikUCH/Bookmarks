@@ -10,3 +10,42 @@
 		+ [Build a Material Design App with Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 		+ [CODEPATH - Using App ToolBar](https://guides.codepath.com/android/Using-the-App-Toolbar)
 	+ [Hand-picked Android UI Inspiration](https://www.uplabs.com/posts/c/material/resources/platform/android)	
+	
+	
++ Development practice
+	+ [Cracking Damn Insecure and Vulnerable App](http://www.androidpentesting.com/2016/03/cracking-damn-insecure-and-vulnerable.html)
+	
+	
++ Library
+	+ [Top 5 Android Libraries](https://infinum.co/the-capsized-eight/top-5-android-libraries-every-android-developer-should-know-about)
+	+ [Square Open source](http://square.github.io)
+	
++ Tools
+	+ [Build Varient Control](https://blog.grandcentrix.net/how-to-install-different-app-variants-on-one-android-device/)
+	+ [Static Code Analysis](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
+	
++ Thread Management 
+	+ [ThreadPoolExecutor](http://codetheory.in/android-java-executor-framework/)
+	+ [Threads and Executors](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
+	
++ Bloggers
+	+ [Dmytro Danylyk](https://dmytrodanylyk.com)
+	+ [Saul Molinero](http://saulmm.github.io)
+	+ [Awesome Android](https://yq.aliyun.com/articles/27000)
+	+ [Grooking Android](https://www.grokkingandroid.com)
+	
++ Security & Cryptography
+	+ [What is SSL and what are Certificates?](http://tldp.org/HOWTO/SSL-Certificates-HOWTO/x64.html)
+	+ [IBM - An overview of the SSL or TLS handshake](https://www.ibm.com/support/knowledgecenter/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm)
+	+ [What is digital signature?](http://searchsecurity.techtarget.com/definition/digital-signature)
+  	+ [best place to store a password in your Android app](http://www.androidauthority.com/where-is-the-best-place-to-store-a-password-in-your-android-app-597197/)
+  	+ [Securing mobile banking on Android with SSL certificate pinning](https://infinum.co/the-capsized-eight/securing-mobile-banking-on-android-with-ssl-certificate-pinning)
+  	+ [How does HTTPS actually work?](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+  	
++ SQLite Fun
+	+ [SQLChiper - Secure Android Database in SQLite](http://www.informit.com/articles/article.aspx?p=2268753&seqNum=3)
+	+ [How to decrypt an encrypted sqlcipher database file on command line?](https://stackoverflow.com/questions/25132477/how-to-decrypt-an-encrypted-sqlcipher-database-file-on-command-line) 
+	+ [SQLChiper Commandline not working ](https://stackoverflow.com/questions/19602599/sqlcipher-command-line-not-working) 
+	+ [The sqlite3 command line tool](http://zetcode.com/db/sqlite/tool/) 
+	+ [DB Browser for SQLite](http://sqlitebrowser.org)
+  	
