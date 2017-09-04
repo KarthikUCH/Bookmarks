@@ -11,10 +11,14 @@
 		+ [CODEPATH - Using App ToolBar](https://guides.codepath.com/android/Using-the-App-Toolbar)
 	+ [Hand-picked Android UI Inspiration](https://www.uplabs.com/posts/c/material/resources/platform/android)	
 	
-	
 + Development practice
 	+ [Cracking Damn Insecure and Vulnerable App](http://www.androidpentesting.com/2016/03/cracking-damn-insecure-and-vulnerable.html)
+	+ [Best practices in Android development](https://github.com/futurice/android-best-practices)
 	
++ Naming convention
+	+ [A successful XML naming convention](https://jeroenmols.com/blog/2016/03/07/resourcenaming/)
+	+ [Project guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
+	+ [Java Code Style for Contributors](https://source.android.com/source/code-style)
 	
 + Library
 	+ [Top 5 Android Libraries](https://infinum.co/the-capsized-eight/top-5-android-libraries-every-android-developer-should-know-about)
@@ -23,6 +27,7 @@
 + Tools
 	+ [Build Varient Control](https://blog.grandcentrix.net/how-to-install-different-app-variants-on-one-android-device/)
 	+ [Static Code Analysis](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
+	+ [Sonar - Open Source Project and Code Quality Monitoring](http://www.methodsandtools.com/tools/tools.php?sonar)
 	
 + Thread Management 
 	+ [ThreadPoolExecutor](http://codetheory.in/android-java-executor-framework/)
@@ -48,4 +53,7 @@
 	+ [SQLChiper Commandline not working ](https://stackoverflow.com/questions/19602599/sqlcipher-command-line-not-working) 
 	+ [The sqlite3 command line tool](http://zetcode.com/db/sqlite/tool/) 
 	+ [DB Browser for SQLite](http://sqlitebrowser.org)
+	
+	
+		
   	
