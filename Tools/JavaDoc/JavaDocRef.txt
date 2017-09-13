@@ -1,0 +1,17 @@
+Linking to an external URL in Javadoc?
+
+	http://stackoverflow.com/questions/1082050/linking-to-an-external-url-in-javadoc
+	
+==========================================================================================================================================================================
+
+Reference a method in Javadoc ?
+
+	http://stackoverflow.com/questions/5915992/how-to-reference-a-method-in-javadoc
+	
+==========================================================================================================================================================================
+
+bulleting 
+
+  	http://stackoverflow.com/questions/6478777/how-to-create-multiple-levels-of-indentation-in-javadoc
+  	
+==========================================================================================================================================================================

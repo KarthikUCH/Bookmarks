@@ -1,0 +1,49 @@
+developer.android.com Doc
+
+	https://developer.android.com/studio/command-line/adb.html#Enabling
+
+=====================================================================================
+
+
+Top 10 Commands
+
+	http://www.androidcentral.com/android-201-10-basic-terminal-commands-you-		should-know
+
+=====================================================================================
+
+
+Display activity stack
+
+	http://stackoverflow.com/questions/4387875/view-activity-stack-in-android	
+
+=====================================================================================
+				
+Install App: 
+
+	http://forums.androidcentral.com/motorola-x-rooting-roms-hacks/25447-		installing-apk-s-terminal-mac-osx.html
+
+	Fresh Install ———> ./adb install
+	Update App ———> ./adb install -r 
+
+
+=====================================================================================
+
+Fetch Database/SharedPreference:
+
+https://stackoverflow.com/questions/4867379/android-eclipse-ddms-cant-access-data-data-on-phone-to-pull-files
+
+=====================================================================================
+
+Play with adb commands
+
+      	https://letschat.tbs/direct/javis
+
+=====================================================================================
+Get DB from Emulator
+	
+https://stackoverflow.com/questions/36326836/android-export-sqlite-database-to-computer-mac
+
+https://stackoverflow.com/questions/18370219/how-to-use-adb-in-android-studio-to-view-an-sqlite-db
+
+=====================================================================================
+

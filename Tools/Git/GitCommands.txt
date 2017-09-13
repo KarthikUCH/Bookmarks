@@ -1,0 +1,78 @@
+Create New Branch
+
+	$ git checkout -b branch_name	
+
+=====================================================================================
+
+Delete Local Branch
+
+	$ git branch -d branch_name
+	
+	Note:The -d option is an alias for --delete, which only deletes the branch if it has already been fully merged in its upstream branch. You could also use -D, which is an alias for --delete --force, which deletes the branch "irrespective of its merged status." [Source: man git-branch]
+
+=====================================================================================
+	
+Delete Remote Branch
+
+	$ git push origin --delete <branch_name>
+
+=====================================================================================
+
+Rebase 
+
+	https://brandonwamboldt.ca/understanding-git-rebase-1670/ 
+
+=====================================================================================
+
+Revert Changes
+
+	http://stackoverflow.com/questions/1146973/how-do-i-revert-all-local-changes-in-git-managed-project-to-previous-state	
+
+
+=====================================================================================
+
+File Diff between branches
+
+	http://stackoverflow.com/questions/4099742/how-can-i-compare-files-from-two-different-branches	
+	
+	git diff mybranch..developbranch -- fileName.java
+
+
+=====================================================================================
+
+Merge Feature to Develop
+
+	http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master 
+
+=====================================================================================
+
+List stashes 
+
+	https://git-scm.com/docs/git-stash
+
+=====================================================================================
+
+Diff in File Between Two Branch
+
+	http://stackoverflow.com/questions/3211809/git-diff-between-given-two-tags
+	
+	http://stackoverflow.com/questions/4099742/how-to-compare-files-from-two-different-branches
+
+=====================================================================================
+
+Search for the commit name baed on the changes made 
+
+	https://stackoverflow.com/questions/5816134/finding-a-git-commit-that-introduced-a-string-in-any-branch
+
+=====================================================================================
+A successful Git branching model
+
+	http://nvie.com/posts/a-successful-git-branching-model/
+
+=====================================================================================
+
+Add Exististing project to GIT
+
+	https://scotch.io/quick-tips/how-to-push-an-existing-project-to-github
+
+=====================================================================================

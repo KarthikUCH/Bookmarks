@@ -1,0 +1,43 @@
+Search for text inside directory
+
+	http://superuser.com/questions/162999/how-to-find-files-with-certain-text-in-	the-terminal/163002
+
+=====================================================================================
+
+
+Zip To compress/extract
+
+
+	https://coolestguidesontheplanet.com/how-to-compress-and-uncompress-files-		and-folders-in-os-x-lion-10-7-using-terminal/
+
+=====================================================================================
+
+Edit Your PATH Environment Variables
+
+	http://hathaway.cc/post/69201163472/how-to-edit-your-path-environment-	variables-on-mac
+
+=====================================================================================
+
+Edit Files
+
+	http://guides.macrumors.com/nano
+				=====================================================================================
+
+Set Path 
+
+	https://coolestguidesontheplanet.com/add-shell-path-osx/
+			=====================================================================================
+
+Search for Java Path
+
+	https://stackoverflow.com/questions/18144660/what-is-path-of-jdk-on-mac
+			=====================================================================================
+
+Install Multiple Java Verisons
+
+	http://davidcai.github.io/blog/posts/install-multiple-jdk-on-mac/
+
+			=====================================================================================
+
+
+
