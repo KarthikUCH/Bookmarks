@@ -46,4 +46,37 @@ https://stackoverflow.com/questions/36326836/android-export-sqlite-database-to-c
 https://stackoverflow.com/questions/18370219/how-to-use-adb-in-android-studio-to-view-an-sqlite-db
 
 =====================================================================================
+Power Manager State && Settings and Configuration
 
+	Full spec 	==> adb shell dumpsys power
+	Individual spec ==> adb shell dumpsys power | grep mStayOn
+
+=====================================================================================
+Device features (hardware, sensor)
+
+	Device Feature ==> adb shell pm list features
+	https://android.stackexchange.com/questions/82169/howto-get-devices-features-with-adb
+
+=====================================================================================
+Service running in background
+	
+	List all services 
+	==> adb shell dumpsys activity services
+
+	// List all services containing "myservice" in its name
+	==> adb shell dumpsys activity services myservice
+=====================================================================================
+
+	Start an activity ==> adb shell am start com.example.karthikeyan.servicesample/.MainActivity
+
+
+	https://stackoverflow.com/a/28983087/2790197
+=====================================================================================
+
+	Start a service ==> adb shell am startservice com.example.karthikeyan.servicesample/.MyService
+
+	Stop a service ==> adb shell am stopservice com.example.karthikeyan.servicesample/.MyService
+
+
+	
+	

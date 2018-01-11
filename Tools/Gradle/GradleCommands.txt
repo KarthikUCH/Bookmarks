@@ -1,0 +1,3 @@
+Force gradle to re-download dependencies 
+	
+		https://stackoverflow.com/questions/13565082/how-can-i-force-gradle-to-redownload-dependencies

@@ -1,5 +1,8 @@
 # Android Reference Bookmarks
 
++ Basics 
+	+ [Understanding the Android Compilation Process](http://www.theappguruz.com/blog/android-compilation-process)
+
 + Material Design
 	+ [http://www.materialdoc.com](http://www.materialdoc.com)
 	+ [Material Design for PreLollipop Devices](https://snow.dog/blog/getting-material-design-for-pre-lollipop-devices-with-appcompat-v21/)	
@@ -10,6 +13,7 @@
 		+ [Build a Material Design App with Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0)
 		+ [CODEPATH - Using App ToolBar](https://guides.codepath.com/android/Using-the-App-Toolbar)
 	+ [Hand-picked Android UI Inspiration](https://www.uplabs.com/posts/c/material/resources/platform/android)	
+	+ [Material component for Android](https://material.io/components/android/catalog/bottom-sheet-dialog-fragment/)
 	
 + Development practice
 	+ [Cracking Damn Insecure and Vulnerable App](http://www.androidpentesting.com/2016/03/cracking-damn-insecure-and-vulnerable.html)
