@@ -14,6 +14,8 @@
 		+ [CODEPATH - Using App ToolBar](https://guides.codepath.com/android/Using-the-App-Toolbar)
 	+ [Hand-picked Android UI Inspiration](https://www.uplabs.com/posts/c/material/resources/platform/android)	
 	+ [Material component for Android](https://material.io/components/android/catalog/bottom-sheet-dialog-fragment/)
+	+ [Material Design Palette](https://www.materialpalette.com)
+	+ [Bottom sheet everything](http://www.hidroh.com/2016/06/17/bottom-sheet-everything/)
 	
 + Development practice
 	+ [Cracking Damn Insecure and Vulnerable App](http://www.androidpentesting.com/2016/03/cracking-damn-insecure-and-vulnerable.html)
@@ -42,6 +44,7 @@
 	+ [Saul Molinero](http://saulmm.github.io)
 	+ [Awesome Android](https://yq.aliyun.com/articles/27000)
 	+ [Grooking Android](https://www.grokkingandroid.com)
+	+ [Dan Lew Codes](http://blog.danlew.net/)
 	
 + Security & Cryptography
 	+ [What is SSL and what are Certificates?](http://tldp.org/HOWTO/SSL-Certificates-HOWTO/x64.html)
