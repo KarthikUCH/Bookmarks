@@ -85,4 +85,13 @@ Gitignore after commit
 
 	https://stackoverflow.com/questions/6535362/gitignore-after-commit
 
+=====================================================================================
+
+Successful git branching model(Includes release)
+
+	http://nvie.com/posts/a-successful-git-branching-model/
+
+=====================================================================================
+
+
 

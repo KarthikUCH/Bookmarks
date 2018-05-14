@@ -2,6 +2,7 @@
 
 + Basics 
 	+ [Understanding the Android Compilation Process](http://www.theappguruz.com/blog/android-compilation-process)
+	+ [Dimensions & Resolution](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
 
 + Material Design
 	+ [http://www.materialdoc.com](http://www.materialdoc.com)
@@ -60,6 +61,8 @@
 	+ [SQLChiper Commandline not working ](https://stackoverflow.com/questions/19602599/sqlcipher-command-line-not-working) 
 	+ [The sqlite3 command line tool](http://zetcode.com/db/sqlite/tool/) 
 	+ [DB Browser for SQLite](http://sqlitebrowser.org)
+	
+
 	
 	
 		
