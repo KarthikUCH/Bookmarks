@@ -93,5 +93,9 @@ Successful git branching model(Includes release)
 
 =====================================================================================
 
+Reset and sync local repository with remote branch
+
+	http://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/
+
 
 
