@@ -26,6 +26,7 @@
 	+ [A successful XML naming convention](https://jeroenmols.com/blog/2016/03/07/resourcenaming/)
 	+ [Project guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 	+ [Java Code Style for Contributors](https://source.android.com/source/code-style)
+	+ [Orgainizing Resources](https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources)
 	
 + Library
 	+ [Top 5 Android Libraries](https://infinum.co/the-capsized-eight/top-5-android-libraries-every-android-developer-should-know-about)
