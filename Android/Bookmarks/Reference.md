@@ -63,6 +63,10 @@
 	+ [The sqlite3 command line tool](http://zetcode.com/db/sqlite/tool/) 
 	+ [DB Browser for SQLite](http://sqlitebrowser.org)
 	
++ SDK
+	+ [Publish Android Library](https://dev.to/mohitrajput987/develop--publish-your-own-sdk-in-android---part-3create-gradle-dependency-4nam)
+	+ [Android library development - Getting started](https://jeroenmols.com/blog/2020/10/28/library-gettingstarted/)
+	
 
 	
 	
