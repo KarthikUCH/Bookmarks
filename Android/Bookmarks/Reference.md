@@ -2,6 +2,9 @@
 
 + Basics 
 	+ [Understanding the Android Compilation Process](http://www.theappguruz.com/blog/android-compilation-process)
+	+ [Understanding the Android APK build process, the execution environment, and code compilation.](https://www.youtube.com/watch?v=Qp-5stxpTz4)
+	+ [What is the difference between JDK,JRE and JVM](https://www.youtube.com/watch?v=eaAqwTdUAAo)
+	+ [Just in time compiler](https://www.theserverside.com/definition/just-in-time-compiler-JIT)
 	+ [Dimensions & Resolution](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
 
 + Material Design
