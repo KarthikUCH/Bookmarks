@@ -76,5 +76,14 @@
 	
 + Stressing memory on Android
 	+ [Stressing memory on Android](https://www.amanjeet.me/stressing-memory-on-android/)
+	
++ Rx java & Rx Android
+	+ [What is Reactive Programming?](https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382)
+	+ [The Missing RxJava 2 Guide to Supercharge Your Android Development - Part 1](https://blog.aritraroy.in/the-missing-rxjava-2-guide-to-supercharge-your-android-development-part-1-624ef326bff4)
+	+ [The Missing RxJava 2 Guide to Supercharge Your Android Development - Part 2](https://blog.aritraroy.in/the-missing-rxjava-2-guide-to-supercharge-your-android-development-part-2-7ad0870b69ff)
+	+ [Multi-Threading Like a Boss in Android With RxJava 2](https://medium.com/gojekengineering/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2)
+	+ [RxAndroid Basics: Part 1](https://kurtisnusbaum.medium.com/rxandroid-basics-part-1-c0d5edcf6850)
+	+ [RxAndroid Basics: Part 2](https://kurtisnusbaum.medium.com/rxandroid-basics-part-2-6e877af352)
+	
 		
   	
