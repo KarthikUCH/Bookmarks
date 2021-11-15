@@ -85,8 +85,9 @@
 	+ [RxAndroid Basics: Part 1](https://kurtisnusbaum.medium.com/rxandroid-basics-part-1-c0d5edcf6850)
 	+ [RxAndroid Basics: Part 2](https://kurtisnusbaum.medium.com/rxandroid-basics-part-2-6e877af352)
 	+ [Learning RxJava by example - Video](https://www.youtube.com/watch?v=k3D0cWyNno4)
-	+ [KotlinConf 2017 - RX Java with Kotlin in Baby Steps by Annyce Davis](https://www.youtube.com/watch?v=YPf6AYDaYf8)
+	+ [KotlinConf 2017 - RX Java with Kotlin in Baby Steps by Annyce Davis - Video](https://www.youtube.com/watch?v=YPf6AYDaYf8)
 	+ [RxSubjects, Cold and Hot Observables, ConnectableObservable](https://medium.com/@mohitsharma_16765/rxsubjects-cold-and-hot-observables-connectableobservable-6ab0f3020876)
 	+ [RxJava Backpressure](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
+	+ [Managing State with RxJava by Jake Wharton - Video](https://www.youtube.com/watch?v=0IKHxjkgop4)
 		
   	
