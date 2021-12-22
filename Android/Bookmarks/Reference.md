@@ -91,11 +91,11 @@
 	+ [Managing State with RxJava by Jake Wharton - Video](https://www.youtube.com/watch?v=0IKHxjkgop4)
 	
  + Modulariation 
- 	+[The greatest Android modularization mistake and how to undo it](https://proandroiddev.com/greatest-android-modularization-mistake-and-how-to-undo-it-50eda336a595)
- 	+[JEROEN MOLS - Modularization](https://jeroenmols.com/blog/2019/03/18/modularizationarchitecture/)
- 	+[Android modularisation survey 2019](https://medium.com/@emmaguy/android-modularisation-the-results-58a4bf17602e)
- 	+[Robinhood - Android Modularization: The Story of Robinhood’s Android App](https://robinhood.engineering/breaking-up-the-app-module-monolith-the-story-of-robinhoods-android-app-707fb993a50c)
- 	+[Robinhood - Android Inter-Module Navigation With Dagger](https://robinhood.engineering/android-inter-module-navigation-with-dagger-b808c4579067)
- 	+[Modularization of Android Applications in 2021](https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b)
+ 	+ [The greatest Android modularization mistake and how to undo it](https://proandroiddev.com/greatest-android-modularization-mistake-and-how-to-undo-it-50eda336a595)
+ 	+ [JEROEN MOLS - Modularization](https://jeroenmols.com/blog/2019/03/18/modularizationarchitecture/)
+ 	+ [Android modularisation survey 2019](https://medium.com/@emmaguy/android-modularisation-the-results-58a4bf17602e)
+ 	+ [Robinhood - Android Modularization: The Story of Robinhood’s Android App](https://robinhood.engineering/breaking-up-the-app-module-monolith-the-story-of-robinhoods-android-app-707fb993a50c)
+ 	+ [Robinhood - Android Inter-Module Navigation With Dagger](https://robinhood.engineering/android-inter-module-navigation-with-dagger-b808c4579067)
+ 	+ [Modularization of Android Applications in 2021](https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b)
 		
   	
